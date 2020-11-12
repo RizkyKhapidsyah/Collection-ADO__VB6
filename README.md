@@ -5,4 +5,4 @@ Lihat Source Code : <br>
 - <a href="https://github.com/RizkyKhapidsyah/Collection-ADO__VB6/blob/main/frmCollection.frm">Program</a><br>
 - <a href="https://github.com/RizkyKhapidsyah/Collection-ADO__VB6/blob/main/stdModule.bas">Module</a><br>
 - <a href="https://github.com/RizkyKhapidsyah/Collection-ADO__VB6/blob/main/clsTest.cls">ClassModule 1</a><br>
-- <a href="https://github.com/RizkyKhapidsyah/Collection-ADO__VB6/blob/main/colTest.cls">ClassMOdule2</a><br>
+- <a href="https://github.com/RizkyKhapidsyah/Collection-ADO__VB6/blob/main/colTest.cls">ClassModule2</a><br>
